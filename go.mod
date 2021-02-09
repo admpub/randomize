@@ -1,4 +1,4 @@
-module github.com/volatiletech/randomize
+module github.com/admpub/randomize
 
 go 1.14
 
