@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/aarondl/strmangle"
 	"github.com/gofrs/uuid"
-	"github.com/volatiletech/strmangle"
 )
 
 const alphabetAll = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
